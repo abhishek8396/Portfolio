@@ -1,0 +1,56 @@
+.full-conatainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .main-container {
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .project-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .project-description {
+    margin-bottom: 10px;
+  }
+  
+  .project-technologies {
+    margin-bottom: 10px;
+  }
+  
+  .project-challanges,
+  .project-role {
+    margin-bottom: 10px;
+  }
+  
+  .pro-btns {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .view,
+  .source {
+    margin-right: 10px;
+    border: 1px solid white;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    padding-top: 0.5rem;
+    font-weight: 200;
+    color: black;
+    background-color: yellow;
+  }
+  
